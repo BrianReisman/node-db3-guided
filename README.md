@@ -16,3 +16,13 @@ Guided project for **Node DB3** Module.
 - [ ] type `npm run server` to start the API.
 
 Please follow along as the instructor creates database access methods for a multi table schema.
+
+## Files where notes are found:
+- ./queries.sql
+- ./BigJoin.sql
+- ./knexfile.js
+- ./api/users/user-model.js
+- ./api/users/user-router.js
+- ./api/users/user-middleware.js
+- ./multi-table-queries.pdf
+- ./multi-table-quieries.mp4
